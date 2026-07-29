@@ -43,7 +43,7 @@ Then use the folder name as **Skill Name**. Each folder contains a self-containe
 
 ## Scope
 
-This repository contains the 28 original skills selected from the local collection. It intentionally excludes duplicated Superpowers copies and third-party GStack skills.
+This repository contains 28 reusable skills selected from the local collection. `hostinger-embed` is a sanitized edition with business and infrastructure-specific context removed. The repository intentionally excludes duplicated Superpowers copies and third-party GStack skills.
 
 ## License
 
